@@ -11,10 +11,10 @@ This dashboard provides a comprehensive view of pizza sales data, tracking perfo
 - **Sales Insights**: Detailed insights into the best and worst-selling pizzas.
 
 ### Dashboard Page 1
-![Dashboard Page 1](URL_OF_DASHBOARD_PAGE_1)
+![Dashboard Page 1](https://github.com/Bhumigor/Pizza-Sales-Report/blob/main/Photos/Dashboard%20page%201.png)
 
 ### Dashboard Page 2
-![Dashboard Page 2](URL_OF_DASHBOARD_PAGE_2)
+![Dashboard Page 2](https://github.com/Bhumigor/Pizza-Sales-Report/blob/main/Photos/Dashboard%20page%202.png)
 
 ## Key Metrics
 - **Busiest Days and Times**: Analyze which days and times generate the most orders.
